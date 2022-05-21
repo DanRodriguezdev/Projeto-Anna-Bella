@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"conetud",
+				"conteudo"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"n",
+				"background"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"o",
+				"orange"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"in",
+				"inset"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"g",
+				"gray"
+			],
+			[
+				"p",
+				"principal"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"im",
+				"imagens"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"S",
+				"sexo"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"htm",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/Projeto CC3 Intermediario/estilo.css",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/Projeto CC3 Intermediario/elementos-flutuantes.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/Projeto CC3 Intermediario/modelo-caixa.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoAnnaBella/estilo.css",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoAnnaBella/index.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoAnnaBella/contato.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoAnnaBella/campanhas_publicitárias.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoAnnaBella/biografia.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/estilo.css",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/pagina2.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/pagina1.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/estilos_textos.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/tamanhos_textos.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/classes_id.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/bordas.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/fontes_cores.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/div_span.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/inline_style.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/CSS/ProjetoCSS3/classes_id.css",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/HTML/Projeto final html/contatos.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/HTML/Projeto final html/quem-somos.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/HTML/Projeto final html/index.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/HTML/Primeiros Projetos/index.html",
+		"/C/Users/Dante/Documents/MIMYR/CIÊNCIAS EXATAS/Informatica/Udemy HTML/Curso 3/HTML/Primeiros Projetos/contato.html",
+		"/C/Users/Dante/Desktop/Sublimedev/WEB 2.0/Primeiro Projeto/index.html",
+		"/C/Users/Dante/Desktop/Sublimedev/WEB 2.0/Primeiro Projeto/contato.html",
+		"/C/Users/Dante/Desktop/Sublimedev/WEB 2.0/Primeiro Projeto/projeto.html",
+		"/C/Users/Dante/Desktop/Sublimedev/Projeto Web/index.html",
+		"/C/Users/Dante/Documents/ADTOC/Udemy HTML/02_tags.html",
+		"/C/Users/Dante/Documents/ADTOC/Udemy HTML/01 teste.html",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
